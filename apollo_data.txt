@@ -1,0 +1,100 @@
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00000.jpg 898,420,960,583,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00001.jpg 1341,294,1420,523,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00002.jpg 931,506,967,610,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00003.jpg 1090,455,1138,594,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00004.jpg 749,552,815,735,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00005.jpg 776,712,813,800,1 1428,730,1448,788,1 1286,821,1301,860,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00006.jpg 1192,803,1204,841,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00007.jpg 1136,728,1153,779,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00008.jpg 1090,765,1110,817,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00009.jpg 479,610,540,790,2 1114,915,1125,941,1 928,880,948,937,2 1411,869,1433,928,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00010.jpg 510,560,581,777,2 1146,901,1159,934,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00011.jpg 1175,888,1189,922,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00012.jpg 1473,552,1503,638,2 1232,557,1261,644,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00013.jpg 1120,353,1162,478,2 1477,342,1519,467,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00014.jpg 1371,695,1393,754,2 1180,694,1202,753,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00015.jpg 1102,773,1120,823,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00016.jpg 1454,806,1474,853,2 1304,805,1321,854,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00017.jpg 1491,203,1542,355,2 997,204,1052,360,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00018.jpg 1190,654,1211,713,1 1376,654,1400,716,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00019.jpg 1613,124,1672,297,1 1027,904,1045,948,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00020.jpg 1346,781,1372,844,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00021.jpg 886,623,928,739,1 1609,596,1651,713,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00022.jpg 1235,411,1279,528,2 854,419,898,539,2 1667,673,1711,793,2 961,883,976,920,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00023.jpg 1124,180,1182,337,2 616,187,676,346,2 1697,529,1759,687,2 821,841,836,881,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00024.jpg 1187,523,1219,614,2 898,526,931,616,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00025.jpg 1360,38,1424,218,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00026.jpg 586,435,630,552,1 209,432,252,549,1 217,953,230,985,2 1777,653,1825,791,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00027.jpg 1075,167,1130,320,2 586,164,642,320,2 749,856,761,890,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00028.jpg 990,847,1009,899,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00029.jpg 1408,559,1440,651,2 1155,567,1186,656,2 927,949,940,979,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00030.jpg 1710,330,1755,456,2 1348,339,1394,462,2 1072,895,1087,928,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00031.jpg 1276,708,1301,781,2 1171,711,1197,785,2 556,829,586,909,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00032.jpg 1123,353,1185,532,1 1383,342,1444,521,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00033.jpg 775,645,802,724,1 528,650,554,726,1 481,948,492,973,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00034.jpg 556,579,586,666,2 842,574,871,662,2 567,931,579,957,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00035.jpg 1306,418,1348,536,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00036.jpg 1098,270,1146,418,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00037.jpg 1138,426,1195,580,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00038.jpg 1202,781,1220,829,1 1177,856,1189,889,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00039.jpg 1116,703,1138,764,2 1086,813,1100,854,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00040.jpg 1239,567,1277,669,1 1177,804,1201,862,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00041.jpg 1118,325,1188,518,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00042.jpg 1221,508,1267,636,1 1180,837,1195,881,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00043.jpg 1269,716,1295,784,2 1279,891,1286,910,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00044.jpg 1504,74,1558,238,2 1012,80,1065,244,1 479,81,543,254,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00045.jpg 1290,670,1312,731,2 1123,676,1145,737,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00046.jpg 1405,344,1448,470,2 1048,355,1092,481,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00047.jpg 1016,886,1025,910,1 932,886,941,910,1 1037,800,1052,840,1 892,801,906,842,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00048.jpg 1534,529,1562,601,1 1787,528,1815,600,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00049.jpg 1535,527,1561,601,1 1787,526,1815,600,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00050.jpg 653,666,672,724,1 851,665,870,724,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00051.jpg 647,661,667,722,1 845,660,866,720,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00052.jpg 493,840,510,889,2 878,795,893,834,2 1009,787,1025,827,2 1124,782,1139,822,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00053.jpg 1007,773,1023,813,1 872,781,886,821,1 1125,767,1140,808,1 470,826,487,875,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00054.jpg 871,780,887,822,1 1007,772,1023,814,1 1125,766,1141,808,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00055.jpg 1125,765,1140,812,1 469,824,488,875,1 871,779,886,822,1 1006,770,1023,814,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00056.jpg 469,825,488,876,1 870,780,886,822,1 1007,772,1023,814,1 1124,768,1140,810,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00057.jpg 1357,437,1393,543,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00058.jpg 989,719,1018,797,1 698,479,730,568,1 985,474,1017,565,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00059.jpg 714,454,747,548,1 1019,447,1052,543,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00060.jpg 714,453,747,548,1 1019,447,1052,542,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00061.jpg 1375,534,1400,607,1 1160,724,1194,806,1 1550,529,1577,602,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00062.jpg 1063,403,1102,509,1 1390,396,1425,497,1 1705,388,1742,489,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00063.jpg 1006,873,1015,895,1 1068,873,1076,894,1 808,546,831,625,1 1006,540,1033,617,1 1256,537,1280,614,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00064.jpg 723,502,759,604,1 991,495,1027,595,2 1323,488,1357,591,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00065.jpg 249,743,292,867,1 1791,705,1836,823,2 739,740,780,856,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00066.jpg 995,722,1011,770,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00067.jpg 1072,720,1102,815,1 535,512,578,633,1 624,513,668,632,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00068.jpg 1036,498,1083,628,2 1225,489,1272,620,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00069.jpg 1397,882,1405,901,1 353,566,425,769,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00070.jpg 1008,638,1032,709,1 801,647,825,718,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00071.jpg 852,456,895,576,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00072.jpg 1515,716,1551,819,1 1119,448,1154,552,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00073.jpg 1855,731,1917,910,2 1183,262,1243,434,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00074.jpg 943,232,991,372,2 463,242,511,384,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00075.jpg 854,775,874,832,1 1296,703,1311,753,1 1458,698,1478,749,1 1607,694,1623,740,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00076.jpg 774,300,820,435,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00077.jpg 775,301,821,435,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00078.jpg 1057,69,1120,248,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00079.jpg 879,716,896,764,1 801,718,819,767,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00080.jpg 1157,834,1171,874,1 1290,829,1305,870,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00081.jpg 985,644,1006,701,1 1183,638,1205,697,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00082.jpg 684,312,764,527,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00083.jpg 1112,792,1128,836,1 1256,787,1272,831,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00084.jpg 1268,735,1288,789,1 1087,742,1107,796,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00085.jpg 1235,469,1271,570,2 897,479,934,580,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00086.jpg 1108,670,1127,731,1 1305,665,1327,724,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00087.jpg 1465,336,1508,458,1 1052,349,1097,468,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00088.jpg 996,857,1012,903,1 1600,266,1655,418,2 1089,280,1148,432,2 1077,854,1090,901,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00089.jpg 1169,964,1177,984,1 1246,881,1259,916,2 1136,884,1150,918,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00090.jpg 911,829,927,869,2 849,830,863,868,2 658,497,698,598,1 999,482,1035,583,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00091.jpg 961,800,982,856,1 856,693,875,747,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00092.jpg 956,404,1032,621,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00093.jpg 1418,335,1465,462,1 1685,317,1736,447,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00094.jpg 1288,152,1353,336,2 905,171,969,353,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00095.jpg 1164,659,1182,713,1 979,659,998,716,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00096.jpg 986,514,1018,602,2 1277,512,1309,600,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00097.jpg 1417,478,1455,572,2
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00098.jpg 1157,683,1181,747,1 1087,688,1107,745,1
+/home/yxk/project/traffic_light/keras-yolo3/data_preprocess/trainsets/images/00099.jpg 1086,687,1107,746,1 1156,683,1182,747,1
