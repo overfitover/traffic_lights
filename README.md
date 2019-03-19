@@ -3,7 +3,6 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Result
-[效果图](https://github.com/overfitover/MAP_traffic_lights/blob/master/results/mAP.png)
 ![avatar](https://github.com/overfitover/MAP_traffic_lights/blob/master/results/mAP.png)
 ## Introduction
 
